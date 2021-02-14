@@ -1,0 +1,40 @@
+body {
+    font: normal 15pt arial;
+    background: rgb(85, 85, 240);
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background: white;
+    width: 500px;
+    border-radius: 10px;
+    margin: auto;
+    padding: 15px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.459);
+}
+
+div #btn {
+    
+}
+
+section #fi {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+section #sel {
+    width: 150px;
+    margin-top: 10px;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+    margin-top: 50px;
+}
